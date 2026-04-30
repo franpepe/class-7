@@ -1,0 +1,9 @@
+function function_name() {
+	you_commands
+}
+
+#you can also omit the function at the begining; ex below
+
+function_name() {
+	your_commands
+}
